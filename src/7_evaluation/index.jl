@@ -1,0 +1,6 @@
+include("getMappingOfSystem.jl")
+include("getSpectralRadiusOfMapping.jl")
+include("getIterationFromMapping.jl")
+include("getStationarySolutionFromIteration.jl")
+include("getStabilityMapOfSystem.jl")
+include("getStationarySolutionOfMapping.jl")

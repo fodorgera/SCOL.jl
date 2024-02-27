@@ -3,6 +3,15 @@ uuid = "53762b12-3835-473d-a1b4-0719f1844279"
 authors = ["Gergo Fodor"]
 version = "1.0.0-DEV"
 
+[deps]
+Arpack = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MDBM = "dd61e66b-39ce-57b0-8813-509f78be4b4d"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+SemiDiscretizationMethod = "a6865705-0aff-55fc-a8e1-34d7b6815716"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
 [compat]
 julia = "1"
 
